@@ -7,7 +7,8 @@ with two other students for about two months with no prior knowledge about Proce
 backdrop for DJ's to use while playing music. Songs can be added, removed, and paused and the animation changes based
 on the frequency of the current song. For more information regarding the project please visit the link posted below. 
 
-**Youtube Video:** https://www.youtube.com/watch?v=HU1H4tGRb6c&feature=youtu.be
+**Project Duration: October 2018 - December 2018**
+**Youtube Video:** https://www.youtube.com/watch?v=HU1H4tGRb6c&feature=youtu.be**
 
 **Images Showcasing Project:**
 
