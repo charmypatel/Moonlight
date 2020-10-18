@@ -9,7 +9,7 @@ on the frequency of the current song. For more information regarding the project
 
 **Project Duration: October 2018 - December 2018**
 
-**Youtube Video:** https://www.youtube.com/watch?v=HU1H4tGRb6c&feature=youtu.be 
+**Youtube Video:** https://youtu.be/HU1H4tGRb6c
 
 **Images Showcasing Project:**
 
